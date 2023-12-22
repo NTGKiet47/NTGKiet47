@@ -1,6 +1,6 @@
 - Hi, my name is Gia Kiet
 - I’m currently learning software engineering
-- I'm want to be a full-stack developer, want to be specialize in java, react
+- I want to be a full-stack developer, want to be specialize in java, react
 - I’m looking to collaborate on everybody
 - Contact me by nguyentrangiakiet47@gmail.com ...
 
