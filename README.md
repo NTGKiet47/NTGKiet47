@@ -1,7 +1,6 @@
-- Hi, my name is Gia Kiet
-- I’m currently learning software engineering
-- I want to be a full-stack developer, want to be specialize in java, react
-- I’m looking to collaborate on everybody
+- My name is Gia Kiet
+- I graduated from Cantho University, my major is Software Engineering and I mostly focus on Spring Boot
+- Currently, I'm working as a fulltime Java backend developer.
 - Contact me by nguyentrangiakiet47@gmail.com ...
 
 <!---
