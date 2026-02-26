@@ -1,5 +1,5 @@
 - My name is Gia Kiet.
-- I graduated from Can Tho University with a degree in Software Engineering. I specialize in Spring Boot and currently work as a full-time Java backend developer.
+- I graduated from Can Tho University with a degree in Software Engineering and specialize in Spring Boot.
 - Currently, I'm working as a fulltime Java backend developer.
 - Contact me by nguyentrangiakiet47@gmail.com ...
 
